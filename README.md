@@ -69,6 +69,7 @@ Se você estiver no ambiente de desenvolvimento, poderá usar o servidor de dese
 yarn dev
 yarn queue
 ```
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=GoBarber&uri=https%3A%2F%2Fraw.githubusercontent.com%2FARTHURPC03%2FGoBarber%2Fmaster%2FInsomnia_2020-02-28.json)
 
 
 

@@ -35,6 +35,43 @@ Esse projeto foi desenvolvido no [RocketSeat GoStack Bootcamp](https://rocketsea
 -  [DotEnv](https://www.npmjs.com/package/dotenv)
 -  [VS Code][vc] with [ESLint][vceslint]
 
+## Instalação
+
+Clone o projeto com
+
+```sh
+git clone https://github.com/ARTHURPC03/GoBarber
+```
+
+Entre na pasta do projeto e instale as dependências com:
+
+```sh
+yarn
+```
+
+Em seguida, você deve criar seu banco de dados do postgres (ou outro se desejar) e preencher seus próprios campos no arquivo .env.
+
+Agora, você precisa criar tabelas com o comando:
+
+```sh
+npx sequelize db:migrate
+```
+
+Após a configuração do banco de dados, você pode iniciar o servidor com:
+
+```sh
+yarn start
+```
+
+Se você estiver no ambiente de desenvolvimento, poderá usar o servidor de desenvolvimento:
+
+```sh
+yarn dev
+yarn queue
+```
+
+
+
 Feito por ARTHUR PC :wave: [Entre em contato!](https://www.linkedin.com/in/arthurpc03/)
 
 [nodejs]: https://nodejs.org/

@@ -8,9 +8,9 @@
   Um aplicativo de agendamento de barbeiro que permite aos usuários agendar uma consulta com seu barbeiro favorito e mostra ao barbeiro sua agenda para o dia.
 </h4>
 
-## :rocket: Technologies
+## :rocket: Tecnologias
 
-This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
+Esse projeto foi desenvolvido no [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) com as seguintes tecnologias:
 
 -  [Node.js][nodejs]
 -  [Express](https://expressjs.com/)

@@ -7,31 +7,6 @@
 <h4 align="center">
   Um aplicativo de agendamento de barbeiro que permite aos usuários agendar uma consulta com seu barbeiro favorito e mostra ao barbeiro sua agenda para o dia.
 </h4>
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lukemorales/gobarber-api.svg">
-
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lukemorales/gobarber-api.svg">
-
-  <a href="https://www.codacy.com/app/lukemorales/gobarber-api?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lukemorales/gobarber-api&amp;utm_campaign=Badge_Grade">
-    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/70c8e79c83b442278f6c276ebf117ae4.svg">
-  </a>
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lukemorales/gobarber-api.svg">
-  <a href="https://github.com/lukemorales/gobarber-api/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lukemorales/gobarber-api.svg">
-  </a>
-
-  <a href="https://github.com/lukemorales/gobarber-api/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/lukemorales/gobarber-api.svg">
-  </a>
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/lukemorales/gobarber-api.svg">
-</p>
-
-<p align="center">
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
-</p>
 
 ## :rocket: Technologies
 
@@ -60,7 +35,7 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 -  [DotEnv](https://www.npmjs.com/package/dotenv)
 -  [VS Code][vc] with [ESLint][vceslint]
 
-Feito por ARTHUR PC :wave: [Get in touch!](https://www.linkedin.com/in/arthurpc03/)
+Feito por ARTHUR PC :wave: [Entre em contato!](https://www.linkedin.com/in/arthurpc03/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
